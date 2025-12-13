@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Samsa",
+  "base_artist": "Teniwoha",
+  "createdAt": "2025-12-13T10:56:21.749612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Mean (feat. Mxmtoon, Samsa & Love-Sadkid)",
+      "artist": "Afternoon",
+      "has_synced": false,
+      "path": "select/01_So_Mean_(feat._Mxmtoon,_Samsa_&_Love-Sadkid)_Afternoon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "samsa - english ver.【amiaryllis】(ザムザ)",
+      "artist": "amiaryllis",
+      "has_synced": true,
+      "path": "select/02_samsa_-_english_ver.【amiaryllis】(ザムザ)_amiaryllis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Samsa",
+      "artist": "ODMGDIA",
+      "has_synced": true,
+      "path": "select/03_Samsa_ODMGDIA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Quem Vai Limpar o Quarto De Gregor Samsa",
+      "artist": "Dance of Days",
+      "has_synced": true,
+      "path": "select/04_Quem_Vai_Limpar_o_Quarto_De_Gregor_Samsa_Dance_of_Days.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAMSA (or, the Lack of Constant Lack)",
+      "artist": "Oakhands",
+      "has_synced": true,
+      "path": "select/05_SAMSA_(or,_the_Lack_of_Constant_Lack)_Oakhands.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ザムザ - Samsa",
+      "artist": "teniwoha",
+      "has_synced": true,
+      "path": "select/06_ザムザ_-_Samsa_teniwoha.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Samsa",
+      "artist": "Teniwoha",
+      "has_synced": true,
+      "path": "select/07_Samsa_Teniwoha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Franz Samsa",
+      "artist": "Heel Turn",
+      "has_synced": true,
+      "path": "select/08_Franz_Samsa_Heel_Turn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "samsa - komodo (reupload)",
+      "artist": "Zer0",
+      "has_synced": true,
+      "path": "select/09_samsa_-_komodo_(reupload)_Zer0.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "samsa - i know how it ends (reupload)",
+      "artist": "Zer0",
+      "has_synced": true,
+      "path": "select/10_samsa_-_i_know_how_it_ends_(reupload)_Zer0.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gregor Samsa",
+      "artist": "Dressed Like Boys",
+      "has_synced": false,
+      "path": "select/11_Gregor_Samsa_Dressed_Like_Boys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Quem Vai Limpar o Quarto de Gregor Samsa?",
+      "artist": "Dance of Days",
+      "has_synced": true,
+      "path": "select/12_Quem_Vai_Limpar_o_Quarto_de_Gregor_Samsa_Dance_of_Days.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ザムザ (Samsa)",
+      "artist": "てにをは",
+      "has_synced": true,
+      "path": "select/13_ザムザ_(Samsa)_てにをは.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "so mean ft. mxmtoon, samsa, love-sadKiD",
+      "artist": "afternoon",
+      "has_synced": true,
+      "path": "select/14_so_mean_ft._mxmtoon,_samsa,_love-sadKiD_afternoon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ザムザ",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/pl_01_ザムザ_てにをは.txt"
+    }
+  ]
+}
